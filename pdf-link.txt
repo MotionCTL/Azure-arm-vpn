@@ -1,0 +1,2 @@
+https://www.juniper.net/jp/jp/local/pdf/implementation-guides/SRX-AzureVPN-v3.pdf
+https://www.juniper.net/jp/jp/local/pdf/implementation-guides/SSG-AzureVPN-v3.pdf
